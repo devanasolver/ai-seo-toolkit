@@ -129,3 +129,7 @@ This repo ships an [AGENTS.md](AGENTS.md) so coding assistants (Claude Code, Cur
 MIT — use it anywhere, see [LICENSE](LICENSE).
 
 This project stands on good ideas from the open-source community; see [NOTICE](NOTICE) for credits to geo-optimizer-skill, mcp-gsc and OpenSEO. Code here is original.
+
+## Support
+
+If you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).
