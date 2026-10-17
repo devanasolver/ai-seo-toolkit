@@ -1,0 +1,25 @@
+Credits and attribution
+=======================
+
+ai-seo-toolkit is original code written for this repository. It was inspired
+by, and takes ideas (not code) from, these MIT-licensed projects:
+
+- geo-optimizer-skill by Juan Camilo Auriti (Auriti-Labs)
+  https://github.com/Auriti-Labs/geo-optimizer-skill
+  The concept of scoring a website for AI answer engines (GEO/AEO).
+  Not affiliated with or endorsed by that project; we do not use the
+  names "GeoReady" or "GEO Optimizer" for this project, per its
+  TRADEMARKS.md policy.
+
+- mcp-gsc by Amin Foroutan
+  https://github.com/AminForou/mcp-gsc
+  The approach of exposing Google Search Console through a simple,
+  agent-friendly interface with a cached OAuth token.
+
+- OpenSEO by Ben Senescu (every-app)
+  https://github.com/every-app/open-seo
+  The idea of keyword research and SEO workflows built for both humans
+  and AI agents. OpenSEO uses the paid DataForSEO API; this toolkit's
+  keyword research uses only free suggestion data instead.
+
+All three projects are MIT licensed. Thank you to their authors.

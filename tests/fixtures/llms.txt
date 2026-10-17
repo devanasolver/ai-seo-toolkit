@@ -1,0 +1,3 @@
+# Acme
+> Acme makes websites visible to AI search.
+- https://acme.example/about
